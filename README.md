@@ -46,8 +46,10 @@ This pattern creates a chain of receiver objects for a request. This pattern dec
     - Requires clients to be aware of different strategies.
     - Can lead to a proliferation of strategy classes.
 
+
 # Class Diagram
-[/Users/satwik/Desktop/CMPE-202-Individual-Project/ClassDiagram.jpeg]
+![ClassDiagram](https://github.com/SATWIK-SJSU/CMPE-202-Individual-Project/assets/144178762/dcce41e0-4ef1-4a48-95a9-805bc883f59a)
+
 
 ## Usage Instructions
 ### Running the Project
