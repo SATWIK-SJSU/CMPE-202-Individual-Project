@@ -4,8 +4,7 @@
 #### Student ID: 017423796
 
 ## Overview
-This project focuses on the validation and identification of credit card types from various data sources. The primary goal is to process credit card data, ensuring the validity of credit card numbers and correctly categorizing them into types such as Visa, MasterCard, American Express, and Discover.
-
+The central objective of this project is to validate and identify credit card types sourced from diverse data sets. The primary aim is to effectively process credit card information, verifying the legitimacy of card numbers, and accurately classifying them into categories such as Visa, MasterCard, American Express, and Discover.
 ## Objective
 1. **Primary Objective**: Develop a system to validate credit card numbers and identify the card issuer from a given dataset.
 2. **Secondary Objective**: Implement a design that is adaptable and extensible for future additions of credit card classes and types.
